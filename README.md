@@ -8,3 +8,4 @@ Since they are mostly unrelated to eachother there is no package for this, (thou
 Instead, it's intended that you copy them to your project. As such there is no backwards compatability promise as it's not intended that you update them,
 instead you're fully free to just use the commands as starters and customize them as you see fit. Also, if you see a bug or have an improvement idea, please send a PR!
 
+The classes are generally used for the latest Laravel version at the time of create. Currently Laravel 10.
