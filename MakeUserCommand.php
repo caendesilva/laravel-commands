@@ -23,6 +23,6 @@ class MakeUserCommand extends Command
             'email_verified_at' => now(),
         ]);
 
-        $this->info('User created successfully.');
+        $this->info("User #$user->id created successfully.");
     }
 }
